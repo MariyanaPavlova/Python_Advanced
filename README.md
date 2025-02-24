@@ -1,2 +1,2 @@
 # Python_Advanced
-SoftUni course
+Learning Python course from SoftUni
